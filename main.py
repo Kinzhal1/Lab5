@@ -6,3 +6,4 @@ for i in range(0,len(a)):
 for x in range(0, len(b)):
     c.append(b[x])
 c.sort()
+print(c)
